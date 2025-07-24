@@ -47,8 +47,8 @@ Working with low-level graphic libraries like MiniLibX
 Cub3D was a true milestone in my C journey — combining mathematics, graphics, and real-time logic. Implementing full collision detection made the game feel polished and taught me how much fine-tuning goes into even the simplest game mechanics.
 
 <p align="center"> 
-  <img width="503" height="282" alt="maze" src="https://github.com/user-attachments/assets/e0d76d9f-fa95-441e-945f-208941e687eb" />
-  <img width="503" height="282" alt="simple" src="https://github.com/user-attachments/assets/7d9c0726-df5b-4d3f-bbe7-49bc995b7696" />
+  <img width="400" height="282" alt="maze" src="https://github.com/user-attachments/assets/e0d76d9f-fa95-441e-945f-208941e687eb" />
+  <img width="400" height="282" alt="simple" src="https://github.com/user-attachments/assets/7d9c0726-df5b-4d3f-bbe7-49bc995b7696" />
 </p>
 
 Project done with [heperez](https://github.com/hdprz)
