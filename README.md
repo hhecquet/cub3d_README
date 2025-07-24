@@ -29,12 +29,12 @@ To achieve this, I had to:
 * Design and enforce a solid parsing and error-handling system for the .cub file
 
 Bonus Part: Full Collision Detection
-For the bonus, I implemented **full collision** detection to improve gameplay realism:
-* Prevented the player from walking through walls or clipping through corners
-* Added checks against the surrounding map grid to ensure accurate collision boundaries
-* Fine-tuned movement precision to allow smooth motion while still respecting solid boundaries
-* Considered diagonal collisions and edge detection to avoid glitches or sliding into invalid spaces
-* This feature made the player movement feel much more natural and immersive, and required precise control over position updates and map checks per frame.
+* For the bonus, I implemented **full collision** detection to improve gameplay realism:
+  * Prevented the player from walking through walls or clipping through corners
+  * Added checks against the surrounding map grid to ensure accurate collision boundaries
+  * Fine-tuned movement precision to allow smooth motion while still respecting solid boundaries
+  * Considered diagonal collisions and edge detection to avoid glitches or sliding into invalid spaces
+  * This feature made the player movement feel much more natural and immersive, and required precise control over position updates and map checks per frame.
 
 What I Learned:
 * Core principles behind **raycasting and 3D projection** from 2D data
