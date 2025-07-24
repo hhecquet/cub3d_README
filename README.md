@@ -4,7 +4,7 @@
 > None of my code is publicly available here, but if you're a recruiter, I'd be happy to share it with you upon request.
 
 <p align="center"> 
-
+  <img width="318" height="272" alt="Screenshot from 2025-07-24 10-52-37" src="https://github.com/user-attachments/assets/c4063a37-0364-4dfd-bec0-2e0f68c44350" />
 </p>
 
 The Cub3D project is a 42 graphics and game engine assignment where I created a basic 3D first-person perspective game using raycasting, inspired by early games like Wolfenstein 3D. The core goal was to render a 3D environment from a 2D map, with textures, player movement, and basic interactions — all built from scratch using C and the MiniLibX graphics library.
@@ -46,4 +46,9 @@ Working with low-level graphic libraries like MiniLibX
 
 Cub3D was a true milestone in my C journey — combining mathematics, graphics, and real-time logic. Implementing full collision detection made the game feel polished and taught me how much fine-tuning goes into even the simplest game mechanics.
 
-Project done with [[heperez]](https://github.com/hdprz)
+<p align="center"> 
+  <img width="503" height="282" alt="maze" src="https://github.com/user-attachments/assets/e0d76d9f-fa95-441e-945f-208941e687eb" />
+  <img width="503" height="282" alt="simple" src="https://github.com/user-attachments/assets/7d9c0726-df5b-4d3f-bbe7-49bc995b7696" />
+</p>
+
+Project done with [heperez](https://github.com/hdprz)
